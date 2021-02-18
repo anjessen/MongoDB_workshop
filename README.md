@@ -8,6 +8,11 @@
 
 - [Pauline](https://github.com/LynnFoy)
 
+#Installation VsCode
+
+- Vous pouvez le télécharger [ici](https://code.visualstudio.com/),Vs code fonctionne sur tous les environnements :
+Linux , Windows et MacOS.
+
 # Installation MongoDB
 
 [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
