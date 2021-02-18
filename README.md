@@ -8,6 +8,15 @@
 
 - [Pauline](https://github.com/LynnFoy)
 
+
+Ce document reprend les différentes installations à effectuer avant le début du workshop sur Mongodb. 
+
+Nous utiliserons VSCode afin de profiter de l'extension mongodb. Cette installation n'est pas facultative, l'extension étant nécessaire au bon déroulement du workshop. 
+
+Nous utiliserons également Compass, l'interface graphique officielle de Mongodb. Il existe également un shell mongodb, mis nous nous en tiendrons à l'interface graphique par souci de simplicité.
+
+
+
 # Installation VsCode
 
 - Vous pouvez le télécharger [ici](https://code.visualstudio.com/),Vs code fonctionne sur tous les environnements :
@@ -23,4 +32,4 @@ Linux , Windows et MacOS.
 
 # Installer MongoDB pour VS Code
  
-  - Vous pouvez le télécharger [ici](https://docs.mongodb.com/mongodb-vscode/install)
+ - Vous pouvez le télécharger [ici](https://docs.mongodb.com/mongodb-vscode/install)
