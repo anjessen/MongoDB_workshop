@@ -1,6 +1,6 @@
 # MongoDB_workshop
 
-Ce document reprend les différentes installations à effectuer avant le début du workshop sur Mongodb. 
+Ce document reprend *les différentes installations à effectuer* avant le début du workshop sur Mongodb. 
 
 Nous utiliserons VSCode afin de profiter de l'extension mongodb. Cette installation n'est pas facultative, l'extension étant nécessaire au bon déroulement du workshop. 
 
