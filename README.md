@@ -8,7 +8,7 @@
 
 - [Pauline](https://github.com/LynnFoy)
 
-#Installation VsCode
+# Installation VsCode
 
 - Vous pouvez le télécharger [ici](https://code.visualstudio.com/),Vs code fonctionne sur tous les environnements :
 Linux , Windows et MacOS.
