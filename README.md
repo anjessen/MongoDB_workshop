@@ -1,5 +1,11 @@
 # MongoDB_workshop
 
+Ce document reprend les différentes installations à effectuer avant le début du workshop sur Mongodb. 
+
+Nous utiliserons VSCode afin de profiter de l'extension mongodb. Cette installation n'est pas facultative, l'extension étant nécessaire au bon déroulement du workshop. 
+
+Nous utiliserons également Compass, l'interface graphique officielle de Mongodb. Il existe également un shell mongodb, mis nous nous en tiendrons à l'interface graphique par souci de simplicité.
+
 # Groupe :
 
 - [Antoine](https://github.com/anjessen)
@@ -7,15 +13,6 @@
 - [Valentin](https://github.com/massartval)
 
 - [Pauline](https://github.com/LynnFoy)
-
-
-Ce document reprend les différentes installations à effectuer avant le début du workshop sur Mongodb. 
-
-Nous utiliserons VSCode afin de profiter de l'extension mongodb. Cette installation n'est pas facultative, l'extension étant nécessaire au bon déroulement du workshop. 
-
-Nous utiliserons également Compass, l'interface graphique officielle de Mongodb. Il existe également un shell mongodb, mis nous nous en tiendrons à l'interface graphique par souci de simplicité.
-
-
 
 # Installation VsCode
 
