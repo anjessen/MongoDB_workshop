@@ -16,7 +16,7 @@ Nous utiliserons également Compass, l'interface graphique officielle de Mongodb
 
 # Installation VsCode
 
-- Vous pouvez le télécharger [ici](https://code.visualstudio.com/),Vs code fonctionne sur tous les environnements :
+- Vous pouvez le télécharger [ici](https://code.visualstudio.com/), Vs code fonctionne sur tous les environnements :
 Linux , Windows et MacOS.
 
 # Installation MongoDB
