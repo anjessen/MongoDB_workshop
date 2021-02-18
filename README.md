@@ -27,6 +27,6 @@ Linux , Windows et MacOS.
 
 - Vous pouvez le télécharger [ici](https://docs.mongodb.com/compass/master/install)
 
-# Installer MongoDB pour VS Code
+# Installation MongoDB pour VS Code
  
  - Vous pouvez le télécharger [ici](https://docs.mongodb.com/mongodb-vscode/install)
