@@ -20,3 +20,7 @@ Linux , Windows et MacOS.
 # Installation Compass
 
 - Vous pouvez le télécharger [ici](https://docs.mongodb.com/compass/master/install)
+
+# Installer MongoDB pour VS Code
+ 
+  - Vous pouvez le télécharger [ici](https://docs.mongodb.com/mongodb-vscode/install)
