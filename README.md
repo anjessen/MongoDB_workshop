@@ -2,9 +2,9 @@
 
 Ce document reprend __les différentes installations à effectuer__ avant le début du workshop sur Mongodb. 
 
-Nous utiliserons VSCode afin de profiter de l'extension mongodb. Cette installation n'est pas facultative, l'extension étant nécessaire au bon déroulement du workshop. 
+Nous utiliserons __VSCode__ afin de profiter de l'extension mongodb. Cette installation n'est pas facultative, __l'extension étant nécessaire__ au bon déroulement du workshop. 
 
-Nous utiliserons également Compass, l'interface graphique officielle de Mongodb. Il existe également un shell mongodb, mis nous nous en tiendrons à l'interface graphique par souci de simplicité.
+Nous utiliserons également __Compass__, l'interface graphique officielle de Mongodb. Il existe également un shell mongodb, mis nous nous en tiendrons à l'interface graphique par souci de simplicité.
 
 # Groupe :
 
